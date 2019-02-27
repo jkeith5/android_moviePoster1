@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayoutDemo</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="movie_title">Mother!</string>
+    <string name="movie_rating">PG13 | Sci-Fi | $12.99</string>
+    <string name="movie_intro">A couple\'s relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence. From filmmaker Darren Aronofsky (Black Swan, Requiem for a Dream), mother! stars Jennifer Lawrence, Javier Bardem, Ed Harris and Michelle Pfeiffer in this riveting psychological thriller about love, devotion and sacrifice.</string>
+</resources>
